@@ -1,4 +1,4 @@
-# 02 - ¡Ayuda al elfo a listar los regalos!
+# 02 - ¡Ayuda al elfo a listar los regalos! 🎁
 
 Te ha llegado una carta ✉️ con todos los regalos que debes preparar. El tema es que es una cadena de texto y es muy difícil de leer 😱. ¡Menos mal que han puesto cada regalo separado por espacio! (aunque ten cuidado, porque al ser niños, igual han colado más espacios de la cuenta)
 
